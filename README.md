@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Linde!
+<h1 align="center">👋 Hi, I’m Linde!</h1>
 - 👩🏾‍💻 PR graduate transitioning into Software Development (& loving it!)
 - 👀 I’m interested in Tech, Digital and Software... basically all things Code #CodingNewbie
 - 🌱 I’m currently learning: Computer Science @uni (I'm an MSc student) & Front-End Web Development with @shecodesio + @codefirstgirls 
