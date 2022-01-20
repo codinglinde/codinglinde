@@ -10,7 +10,8 @@
 </p>
 <br />
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Codinglinde.Codinglinde) [![Github](https://img.shields.io/github/followers/Codinglinde?label=Followers&logo=Github)](https://github.com/Codinglinde) <a href="https://twitter.com/codinglinde" ><img src="https://img.shields.io/twitter/follow/codinglinde.svg?style=social" /> </a>
+![](https://visitor-badge.laobi.icu/badge?page_id=Codinglinde.Codinglinde) [![Github](https://img.shields.io/github/followers/Codinglinde?label=Followers&logo=Github)](https://github.com/Codinglinde) <a href="https://twitter.com/codinglinde" ><img src="https://img.shields.io/twitter/follow/codinglinde.svg?style=social" /> [![GitHub followers](https://img.shields.io/github/followers/codinglinde?style=social)](https://github.com/codinglinde)
+</a>
 
 <br />
 
@@ -28,3 +29,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&hide=php&theme=monokai" />
 </a>
 </div>
+
+<br />
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codinglinde&theme=monokai=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>
+
