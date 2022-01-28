@@ -4,9 +4,9 @@
 
 <p align="center"> - 👩🏾‍💻 PR graduate transitioning into Software Development (& loving it!)
 
-<p align="center"> - 👀 I’m interested in Tech and Software... basically all things Code #CodingNewbie
+<p align="center"> - 👀 I’m interested in all things Tech: Software Development, Web Development... basically all things Code
 
-<p align="center"> - 🌱 I’m currently learning: Computer Science @uni (I'm an MSc student) & Front-End Web Development with @shecodesio + @codefirstgirls 
+<p align="center"> - 🌱 I’m currently learning: Computer Science (Python, SQL, PHP) @uni... & Front-End Web Development with @shecodesio + @codefirstgirls (HTML, CSS, JavaScript)
 </p>
 <br />
 
