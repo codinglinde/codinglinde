@@ -10,7 +10,7 @@
 </p>
 <br />
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Codinglinde.Codinglinde) [![Github](https://img.shields.io/github/followers/Codinglinde?label=Followers&logo=Github)](https://github.com/Codinglinde) <a href="https://twitter.com/codinglinde" ><img src="https://img.shields.io/twitter/follow/codinglinde.svg?style=social" /> [![GitHub followers](https://img.shields.io/github/followers/codinglinde?style=social)](https://github.com/codinglinde)
+![](https://visitor-badge.laobi.icu/badge?page_id=Codinglinde.Codinglinde) [![GitHub followers](https://img.shields.io/github/followers/codinglinde?style=social)](https://github.com/codinglinde) <a href="https://twitter.com/codinglinde" ><img src="https://img.shields.io/twitter/follow/codinglinde.svg?style=social" /> 
 </a>
 
 <br />
