@@ -6,7 +6,7 @@
 
 <p align="center"> - 👀 I’m interested in all things Tech: Software Development, Web Development... basically all things Code
 
-<p align="center"> - 🌱 I’m currently learning: Computer Science (Python, SQL, PHP) @university... + Front-End Web Development with @shecodesio & @codefirstgirls (HTML, CSS, JavaScript)
+<p align="center"> - 🌱 I’m currently learning: Computer Science (Python, SQL, PHP) @university... + Front-End Web Development with @shecodesio & @codefirstgirls 2022 Alumni!
 </p>
 <br />
 
