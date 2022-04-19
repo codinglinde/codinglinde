@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Linde! ###
 
 👩🏾‍💻 Junior developer. MSc Computer Science student at Birmingham City University. <br>
-🌱 PR grad. Transitioning into Software and Web Development. Digital Content Creator. Strategist. Meticulous Planner.
+🌱 PR grad. Transitioning into Software Engineering and Web Development. Digital Content Creator. Strategist. Meticulous Planner.
 
 
 ## 👀 Currently Learning ##
