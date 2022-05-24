@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Linde! ###
 
-👩🏾‍💻 Trainee Junior developer. MSc Computer Science student at Birmingham City University. <br>
+👩🏾‍💻 Trainee Full Stack Engineer. MSc Computer Science student at Birmingham City University. <br>
 🌱 PR grad. Transitioning into Software Engineering and Front-End Web Development. Digital Content Creator. Strategist. Meticulous Planner.
 
 
