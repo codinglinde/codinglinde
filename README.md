@@ -8,6 +8,7 @@
 * Software Development (Python Programming)
 * Server-side Website Programming
 * Data Science and Machine Learning
+* Mobile App Development
 
 ## 🎯 Goals ##
 * Graduate from my Masters course 🎓
