@@ -8,12 +8,11 @@
 * Software Development (Python Programming)
 * Server-side Website Programming
 * Data Science and Machine Learning
-* Mobile App Development
 
 ## 🎯 Goals ##
 * Graduate from my Masters course 🎓
 * Contribute to codes in software which will be used globally 📱
-* Find my niche within development ⌨️
+* Find my niche within software ⌨️
 * Keep on improving my coding skills 🚀
 
 ## 🛠 Languages ##
