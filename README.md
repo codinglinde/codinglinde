@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Linde! ###
 
-👩🏾‍💻 Trainee. MSc Computer Science student. <br>
-🌱 PR grad. Transitioning into Software Engineering and Front-End Web Development. Digital Content Creator. Strategist. Meticulous Planner.
+👩🏾‍💻 Trainee. MSc student. <br>
+🌱 Media & PR grad. Transitioning into Software Engineering. Digital Content Creator. Strategist. Meticulous Planner.
 
 
 ## 👀 Currently Learning ##
@@ -11,8 +11,7 @@
 
 ## 🎯 Goals ##
 * Graduate from my Masters course 🎓
-* Contribute to codes in software which will be used globally 📱
-* Find my niche within software ⌨️
+* Contribute to codes in software which will be used globally to support end users 📱
 * Keep on improving my coding skills 🚀
 
 ## 🛠 Languages ##
