@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Linde! ###
 
-👩🏾‍💻 Trainee. Graduate student. <br>
-🌱 Media & PR grad. Transitioning into Software Engineering. Digital Content Creator. Strategist. Meticulous Planner.
+👩🏾‍💻 Trainee. Graduate student. Career switching into Software Engineering.<br>
+🌱 Media & PR grad. Digital Content Creator. Strategist. Meticulous Planner. STEMinist 
 
 
 ## 👀 Currently Learning ##
