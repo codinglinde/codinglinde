@@ -5,9 +5,8 @@
 
 
 ## 👀 Currently Learning ##
-* Software Development (Python Programming)
-* Server-side Website Programming
-* Data Science and Machine Learning
+* Python Programming
+* Software Engineering
 
 ## 🎯 Goals ##
 * Graduate from my Masters course 🎓
