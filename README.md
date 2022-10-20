@@ -55,8 +55,8 @@
 ## 📕 Latest Blog Posts ##
 * 
 * 
-
-- ⚡ Fun fact: I have an INTJ personality and value efficiency in my life, so minimalism has a strong appeal to me.
+* 
+⚡ Fun fact: I have an INTJ personality and value efficiency in my life, so minimalism has a strong appeal to me.
 
 ## 🤝🏻 Connect with me ##
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
