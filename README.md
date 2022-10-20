@@ -1,8 +1,7 @@
 ### 👋 Hi there, I’m Linde! ###
 
-👩🏾‍💻 Trainee. Graduate student. Career switching into Software Engineering.<br>
-🌱 Media & PR grad. Digital Content Creator. Strategist. Meticulous Planner. STEMinist 
-
+🌱 In September 2022, I made the switch from a non-technical background into technology.
+👩🏾‍💻 Media & PR. Graduate student. Digital Content Creator. Strategist. Meticulous Planner. STEMinist. Career switching into Software Engineering.
 
 ## 👀 Currently Learning ##
 * Python Programming
@@ -15,6 +14,7 @@
 
 ## 🛠 Languages ##
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -25,6 +25,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -54,7 +55,8 @@
 ## 📕 Latest Blog Posts ##
 * 
 * 
-* 
+
+- ⚡ Fun fact: I have an INTJ personality and value efficiency in my life, so minimalism has a strong appeal to me.
 
 ## 🤝🏻 Connect with me ##
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -70,3 +72,4 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&hide=php&theme=monokai">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&hide=php&theme=monokai" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&layout=compact)](https://github.com/codinglinde)
