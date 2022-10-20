@@ -69,7 +69,4 @@
 <a href="https://github-readme-stats.vercel.app/api?username=codinglinde&theme=monokai">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=codinglinde&count_private=true&show_icons=true&theme=monokai" />
   </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&hide=php&theme=monokai">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&hide=php&theme=monokai" />
-</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&layout=compact)](https://github.com/codinglinde)
