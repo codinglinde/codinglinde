@@ -42,7 +42,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 📕 Latest Blog Posts ##
@@ -59,4 +58,4 @@
 <a href="https://github-readme-stats.vercel.app/api?username=codinglinde&theme=monokai">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=codinglinde&count_private=true&show_icons=true&theme=monokai" />
   </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&layout=compact)](https://github.com/codinglinde/github-readme-stats)
