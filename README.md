@@ -56,8 +56,7 @@
 ![Twitter](https://img.shields.io/badge/@codinglinde-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ## 🏆 My Github Stats: ##
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codinglinde&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <a href="https://github-readme-stats.vercel.app/api?username=codinglinde&theme=monokai">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=codinglinde&count_private=true&show_icons=true&theme=monokai" />
   </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&layout=compact)](https://github.com/codinglinde)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&layout=compact&theme=monokai)](https://github.com/codinglinde)
