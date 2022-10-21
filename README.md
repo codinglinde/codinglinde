@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Linde! ###
 
-🌱 In September 2022, I made the switch from a non-technical background into technology.
+🌱 In September 2022, I made the switch from a non-technical background into technology.<br>
 👩🏾‍💻 Media & PR. Graduate student. Digital Content Creator. Strategist. Meticulous Planner. STEMinist. Career switching into Software Engineering.
 
 ## 👀 Currently Learning ##
@@ -55,9 +55,5 @@
 ![Twitter](https://img.shields.io/badge/@codinglinde-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ## 🏆 My Github Stats: ##
-<a href="https://github-readme-stats.vercel.app/api?username=codinglinde&theme=monokai">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=codinglinde&count_private=true&show_icons=true&theme=monokai" />
-  </a>
- 
 ![Linde's GitHub stats](https://github-readme-stats.vercel.app/api?username=codinglinde&theme=monokai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&theme=monokai&layout=compact)](https://github.com/codinglinde/github-readme-stats)
