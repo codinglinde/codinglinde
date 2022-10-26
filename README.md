@@ -8,7 +8,7 @@
 * Software Engineering
 
 ## 🎯 Goals ##
-* Graduate from my Masters course 🎓
+* Graduate from my Masters course 🎓 (🎊 Achieved on 25/10/22)
 * Contribute to codes in software which will be used globally to support end users 📱
 * Keep on improving my coding skills 🚀
 
