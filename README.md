@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Linde! ###
 
 🌱 In September 2021, I made the switch from a non-technical background into technology.<br>
-👩🏾‍💻 Media & PR. Graduate student. Digital Content Creator. Strategist. Meticulous Planner. STEMinist. Career switching into Software Engineering.
+  👩🏾‍💻 Media & PR Graduate. Postgraduate student. Digital Content Creator. Strategist. Meticulous Planner. STEMinist. Career switching into Software Engineering.
 
 ## 👀 Currently Learning ##
 * Python Programming
