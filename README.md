@@ -8,9 +8,9 @@
 * Software Engineering
 
 ## 🎯 Goals ##
-* Graduate from my Masters course 🎓 - (Achieved on 25/10/22 🎊)
+* Improve my current programming skills 🚀
 * Contribute to codes in software which will be used globally to support end users 📱
-* Keep on improving my coding skills 🚀
+* Develop my technical experience 
 
 ## 🛠 Languages ##
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,12 +37,12 @@
 * 
 * 
 * 
-⚡ Fun fact: I have an INTJ personality and value efficiency in my life, so minimalism has a strong appeal to me.
+⚡ Fun fact: I have an INTJ personality type.
 
 ## 🤝🏻 Connect with me ##
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/@codinglinde-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/@lind3lani-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ## 🏆 My Github Stats: ##
-![Linde's GitHub stats](https://github-readme-stats.vercel.app/api?username=codinglinde&theme=monokai)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinde&theme=monokai&layout=compact)](https://github.com/codinglinde/github-readme-stats)
+![Linde's GitHub stats](https://github-readme-stats.vercel.app/api?username=lind3lani&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lind3lani&theme=monokai&layout=compact)](https://github.com/lind3lani/github-readme-stats)
