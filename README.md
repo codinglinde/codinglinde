@@ -4,8 +4,8 @@
 👩🏾‍💻 Career switching into Software Engineering.
 
 ## 👀 Currently Learning ##
-* Python Programming
 * Software Engineering
+* JavaScript <3
 
 ## 🎯 Goals ##
 * Improve my current programming skills 🚀
