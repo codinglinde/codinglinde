@@ -1,11 +1,12 @@
 ### 👋 Hi there, I’m Linde! ###
 
 🌱 In September 2021, I made the switch from a non-technical background into technology.<br>
-👩🏾‍💻 Career switching into Software Engineering.
+👩🏾‍💻 Software Engineer, specialising in the area of front-end web application development.
 
 ## 👀 Currently Learning ##
-* Software Engineering
 * JavaScript <3
+* TypeScript
+* React
 
 ## 🎯 Goals ##
 * Improve my current programming skills 🚀
@@ -20,6 +21,7 @@
 
 ## 💻 IDEs/Editors ##
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -29,13 +31,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-## 📕 Latest Blog Posts ##
-* 
-* 
-* 
-⚡ Fun fact: I have an INTJ personality type.
 
 ## 🤝🏻 Connect with me ##
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
